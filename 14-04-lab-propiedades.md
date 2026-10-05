@@ -60,7 +60,6 @@ const styles = {
      margin: '10px',
      overflow: 'hidden',
   },
-```
 letras: {
 textAlign: 'center',
 transformOrigin: 'center center',
